@@ -68,37 +68,35 @@ Resultado final: https://financasfacil-by-th19rj2.lovable.app/
 ## Resumo das Funcionalidades do FinançasFácil
 
 1. Resumo Financeiro Simplificado
-Exibe o saldo total, receitas e despesas do mês de forma clara e atualizada.
 
-Ideal para usuários que querem uma visão rápida e acessível da sua situação financeira.
+> Exibe o saldo total, receitas e despesas do mês de forma clara e atualizada.
+
+> Ideal para usuários que querem uma visão rápida e acessível da sua situação financeira.
 
 2. Registro e Classificação de Transações
-As últimas movimentações são listadas com nome, categoria e valor.
-
-As categorias como “Moradia” e “Outros” indicam que há uma classificação automática dos gastos.
+> As últimas movimentações são listadas com nome, categoria e valor.
 
 3. Interface Conversacional
-A presença da aba “Chat” sugere que o usuário pode interagir com o app em linguagem natural para registrar gastos ou tirar dúvidas.
+> O usuário pode interagir com o app na aba "Chat" em linguagem natural para registrar gastos ou tirar dúvidas.
 
-Isso está alinhado com o PRD, que propõe uma experiência fluida e sem formulários.
+> Isso está alinhado com o PRD, que propõe uma experiência fluida e sem formulários.
 
 4. Gestão de Metas Financeiras
-A aba “Metas” indica que o app permite definir e acompanhar objetivos financeiros.
+> A aba “Metas”  permite definir e acompanhar objetivos financeiros.
 
-Provavelmente há suporte para metas como “economizar X reais até tal data”.
 
 5. Relatórios Personalizados
-A aba “Relatórios” sugere que o app oferece visualizações simples e acessíveis dos dados financeiros.
+> A aba “Relatórios”  oferece visualizações simples e acessíveis dos dados financeiros.
 
-Isso pode incluir gráficos, comparativos mensais e insights sobre hábitos de consumo.
+> Isso pode incluir gráficos, comparativos mensais e insights sobre hábitos de consumo.
 
 6. Acessibilidade e Design Universal
-A interface é limpa, com boa hierarquia visual e linguagem clara.
+> A interface é limpa, com boa hierarquia visual e linguagem clara.
 
-O design parece compatível com princípios de acessibilidade: contraste adequado, navegação simples e foco na usabilidade.
+> O design parece compatível com princípios de acessibilidade: contraste adequado, navegação simples e foco na usabilidade.
 
 7. Integração com Lovable
-O rodapé indica que o app foi editado com Lovable, reforçando a proposta de vibe coding e prototipagem rápida.
+> O app foi editado com Lovable, reforçando a proposta de vibe coding e prototipagem rápida.
 
  
 ## Reflexão
@@ -106,7 +104,7 @@ O rodapé indica que o app foi editado com Lovable, reforçando a proposta de vi
 O refinamento do PRD no Copilot auxiliou bastante na criação, já que o número de interações gratuitas com o Lovable é limitado.
     
 ### O que não funcionou como o esperado?  
-Algumas funcionalidades do assistente financeiro não puderam ser implementadas no momento da criação do assistente financeiro, já que as interações gratuitas haviam acabado.
+Algumas funcionalidades do assistente financeiro não puderam ser implementadas no momento da criação do app, já que as interações gratuitas haviam acabado.
     
 ### O que aprendi sobre conversar com IAs?
 É um processo bem fácil de aprender, porém profundo em detalhes. Como em uma conversa normal, quanto mais refinada for a linguagem, melhor a comunicação.
