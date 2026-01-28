@@ -1,6 +1,10 @@
 # 💸 App Finanças Fácil com Vibe Coding
 
-PRD refinado pelo Copilot Web:
+Este aplicativo foi desenvolvido como resposta ao desafio de projeto proposto pela DIO, utilizando Vibe Coding e o Copilot Web. A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
+
+---
+
+## PRD refinado pelo Copilot Web:
 
 ```markdown
 PRD Revisado com Design Universal – Aplicativo de Finanças Pessoais Conversacional
@@ -53,6 +57,8 @@ A proposta é oferecer uma experiência acessível, inclusiva e intuitiva, permi
   - Avaliar se relatórios e dicas são compreendidos por diferentes perfis.
 ```
 
+---
+
 ## Interações com o Lovable
 
 > Pedi ao Lovable para que criasse um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document): {PRD}
@@ -64,6 +70,8 @@ A proposta é oferecer uma experiência acessível, inclusiva e intuitiva, permi
 Resultado final: https://financasfacil-by-th19rj2.lovable.app/
 
 <img width="1887" height="988" alt="image" src="https://github.com/user-attachments/assets/d43b1d8a-8f33-4e8d-b1f5-4b64e0bb8b34" />
+
+---
 
 ## Resumo das Funcionalidades do FinançasFácil
 
@@ -98,6 +106,7 @@ Resultado final: https://financasfacil-by-th19rj2.lovable.app/
 7. Integração com Lovable
 > O app foi editado com Lovable, reforçando a proposta de vibe coding e prototipagem rápida.
 
+---
  
 ## Reflexão
 ### O que funcionou bem?
